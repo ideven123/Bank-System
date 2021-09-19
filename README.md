@@ -1,6 +1,6 @@
 # Bank System
 
-Project of 2020 USTC Database System.
+Project of 2021 USTC Database System.
 
 ## Usage
 
